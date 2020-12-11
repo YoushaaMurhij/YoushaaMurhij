@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=youshaamurhij&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-- 🔭 I’m currently studying in MIPT
+- 🔭 I’m currently studying at MIPT
 - 🌱 I’m learning MOTS
 - 📫 E-mail me!
 
