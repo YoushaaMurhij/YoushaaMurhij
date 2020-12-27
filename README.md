@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at MIPT
 - 🌱 I’m learning MOTS
 - 📫 E-mail me!
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=youshaamurhij&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
