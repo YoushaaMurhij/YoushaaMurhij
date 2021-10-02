@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at MIPT
 - 🌱 I’m learning MOTS
-- 📫 [E-mail me](https://youshaamurhij.github.io/)!
+- 📫 [E-mail me](https://youshaamurhij.github.io/#contact)!
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
