@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=youshaamurhij&theme=flat&column=7" alt="logo" height="160" align="left" style="margin: auto; margin-bottom: 20px;" />
