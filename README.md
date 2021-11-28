@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 🌱 I’m learning MOTS
 - 📫 [E-mail me](https://youshaamurhij.github.io/#contact)!
 
-![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 <!--
