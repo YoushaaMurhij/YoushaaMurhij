@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=youshaamurhij&show_icons=true&theme=gotham" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - 🔭 I’m currently studying at MIPT
 - 🌱 I’m learning MOTS
@@ -25,9 +26,10 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=youshaamurhij&show_icons=true&theme=gotham" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
-<a href="https://app.daily.dev/YoushaaMurhij"><img src="https://api.daily.dev/devcards/20c1a15a06764f0f8c4ce11347e3a69a.png?r=5it" width="400" align="right" alt="Youshaa Murhij's Dev Card"/></a>
 
+<!--
+<a href="https://app.daily.dev/YoushaaMurhij"><img src="https://api.daily.dev/devcards/20c1a15a06764f0f8c4ce11347e3a69a.png?r=5it" width="400" align="right" alt="Youshaa Murhij's Dev Card"/></a>
+-->
 
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=youshaamurhij&theme=flat&column=7" alt="logo" height="160" align="left" style="margin: auto; margin-bottom: 20px;" />
