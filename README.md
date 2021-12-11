@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaamurhij&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
 
+![pv](https://pageview.vercel.app/?github_user=youshaamurhij)
 
 
 
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=youshaamurhij&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
