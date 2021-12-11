@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youshaamurhij&theme=github-dark)](https://git.io/streak-stats)
 
+
+<a href="https://"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=youshaamurhij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaamurhij&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dark" /></a>
+
+
+
 <!--
 <a href="https://app.daily.dev/YoushaaMurhij"><img src="https://api.daily.dev/devcards/20c1a15a06764f0f8c4ce11347e3a69a.png?r=5it" width="400" align="right" alt="Youshaa Murhij's Dev Card"/></a>
 -->
