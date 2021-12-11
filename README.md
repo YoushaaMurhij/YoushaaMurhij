@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=youshaamurhij&theme=flat&column=7" alt="logo" height="160" align="left" style="margin: auto; margin-bottom: 20px;" />
 -->
+<a href="https://app.daily.dev/YoushaaMurhij"><img src="https://api.daily.dev/devcards/20c1a15a06764f0f8c4ce11347e3a69a.png?r=5it" width="400" alt="Youshaa Murhij's Dev Card"/></a>
