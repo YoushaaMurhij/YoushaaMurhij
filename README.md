@@ -26,15 +26,17 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youshaamurhij&theme=github-dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youshaamurhij&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=youshaamurhij&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaamurhij&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dark" /></a>
 
 
 
 <!--
 <a href="https://app.daily.dev/YoushaaMurhij"><img src="https://api.daily.dev/devcards/20c1a15a06764f0f8c4ce11347e3a69a.png?r=5it" width="400" align="right" alt="Youshaa Murhij's Dev Card"/></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youshaamurhij&theme=github-dark)](https://git.io/streak-stats)
+
 -->
 
 <!--
