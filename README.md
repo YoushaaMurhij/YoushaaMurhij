@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youshaamurhij)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youshaamurhij&theme=dark)](https://git.io/streak-stats)
 
 <!--
 <a href="https://app.daily.dev/YoushaaMurhij"><img src="https://api.daily.dev/devcards/20c1a15a06764f0f8c4ce11347e3a69a.png?r=5it" width="400" align="right" alt="Youshaa Murhij's Dev Card"/></a>
