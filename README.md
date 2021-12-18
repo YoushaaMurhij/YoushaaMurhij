@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaamurhij&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="github_dark" />
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
 ![pv](https://pageview.vercel.app/?github_user=youshaamurhij)
 
