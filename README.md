@@ -6,7 +6,7 @@
 </p>
 
 ### Hi there! 👋
-- 🔭 I’m currently pursuing a PhD at MIPT
+- 🔭 I’m currently pursuing a Ph.D. at MIPT
 - 🌱 I’m learning MOTS
 - 📫 [E-mail me](https://youshaamurhij.github.io/#contact)!
 
