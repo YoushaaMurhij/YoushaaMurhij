@@ -26,6 +26,6 @@
 
 
     
-[![Profile last updated](https://img.shields.io/github/last-commit/YoushaaMurhij/YoushaaMurhij/main?label=Last%20updated&style=flat)](https://github.com/YoushaaMurhij/YoushaaMurhij/commits)
-![pv](https://pageview.vercel.app/?github_user=youshaamurhij)
+<!-- [![Profile last updated](https://img.shields.io/github/last-commit/YoushaaMurhij/YoushaaMurhij/main?label=Last%20updated&style=flat)](https://github.com/YoushaaMurhij/YoushaaMurhij/commits)
+![pv](https://pageview.vercel.app/?github_user=youshaamurhij) -->
 
