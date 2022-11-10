@@ -5,10 +5,12 @@
     <a href="https://orcid.org/0000-0003-2036-4023" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
 
-### Hi there! 👋
-- 🔭 I’m currently pursuing a Ph.D. at MIPT
-- 🌱 I’m learning MOTS
-- 📫 [E-mail me](https://youshaamurhij.github.io/#contact)!
+- I’m currently a Ph.D. candidate 🎓 and ML R&D engineer
+- I’m learning MOTS 🌱
+- My research interests are:
+  - 🦾 Computer Vision & Robotics
+  - 🚗 Autonomous Vehicles
+- [E-mail me](https://youshaamurhij.github.io/#contact)! 📫
 
 ### My stack! :dango:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,6 +21,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=youshaamurhij&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaamurhij&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
