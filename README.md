@@ -6,11 +6,10 @@
 </p>
 
 - I’m currently a Ph.D. candidate 🎓 and ML R&D engineer
-- I’m learning MOTS 🌱
 - My research interests are:
   - 🦾 Computer Vision & Robotics
   - 🚗 Autonomous Vehicles
-- [E-mail me](https://youshaamurhij.github.io/#contact)! 📫
+- [E-mail me](emailto:yosha.morheg@phystech.edu)! 📫
 
 ### My stack! :dango:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
