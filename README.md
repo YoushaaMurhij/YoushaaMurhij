@@ -12,7 +12,7 @@
 - [E-mail me](emailto:yosha.morheg@phystech.edu)! 📫
 
 ### My stack! :dango:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,6 +20,19 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ -->
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/>
+      <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="gnu_bash" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="ipynb" width="55" height="55"/>
+      <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+dvc-1324451283933302923.png" alt="dvc" width="55" height="55"/>
+</p>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=youshaamurhij&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
