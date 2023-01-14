@@ -34,13 +34,14 @@
       <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+dvc-1324451283933302923.png" alt="dvc" width="55" height="55"/>
 </p>
 
-
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=youshaamurhij&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaamurhij&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youshaamurhij&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  /> -->
 
 
+![](https://raw.githubusercontent.com/YoushaaMurhij/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YoushaaMurhij/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-    
 <!-- [![Profile last updated](https://img.shields.io/github/last-commit/YoushaaMurhij/YoushaaMurhij/main?label=Last%20updated&style=flat)](https://github.com/YoushaaMurhij/YoushaaMurhij/commits)
 ![pv](https://pageview.vercel.app/?github_user=youshaamurhij) -->
 
