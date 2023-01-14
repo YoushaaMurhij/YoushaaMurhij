@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Lidar-Based Perception**
 
-- 📫 How to reach me **yosha.morheg at gmail.com**
-
 - ⚡ Fun fact **The rising sun is a bit dazzling for researchers**
 
 
