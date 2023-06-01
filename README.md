@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youshaa Murhij</h1>
-<h3 align="center">I’m currently a Ph.D. candidate 🎓 and ML R&D engineer</h3>
+<h1 align="center">Hi 👋</h1>
 
 <!-- <p align="left"> <a href="https://twitter.com/joshuamurhij" target="blank"><img src="https://img.shields.io/twitter/follow/joshuamurhij?logo=twitter&style=for-the-badge" alt="joshuamurhij" /></a> </p> -->
 
@@ -8,8 +7,6 @@
 - 🌱 I’m currently learning **MOTS**
 
 - 💬 Ask me about **Lidar-Based Perception**
-
-- ⚡ Fun fact **The rising sun is a bit dazzling for researchers**
 
 
 <h3 align="left">Languages and Tools:</h3>
