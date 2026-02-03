@@ -5,7 +5,7 @@
 </linearGradient>
 
 <mask id="a">
-  <rect width="340" height="28" rx="4" fill="#fff"/>
+  <rect width="340" height="28" rx="0" fill="#fff"/>
 </mask>
 
 <g mask="url(#a)">
@@ -18,7 +18,7 @@
    text-anchor="middle"
    font-family="Verdana,Geneva,sans-serif"
    font-size="13"
-   font-weight="bold">
+   font-weight="normal">
   <text x="45" y="19">LeetGPU</text>
   <text x="215" y="19">CUDA 32/51 solved · 45/58 subs</text>
 </g>
