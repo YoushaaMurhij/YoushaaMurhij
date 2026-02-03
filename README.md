@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-
   
-<!-- <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=YoushaaMurhij&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=YoushaaMurhij&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <br>
-  <br>
-</p> -->
-
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
@@ -21,8 +13,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> 
-  
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a> 
+  <a href="https://opencv.org/" target="_blank"> <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> </a>
 </p>
 
-> 💬 "Those who do not remember the past are condemned to repeat it". Dynamic programming
+> *"Those who do not remember the past are condemned to repeat it."* — **Dynamic programming**, but also life.
+
+
+![DeepML Youshaa Murhij](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.6081482d75dc29a31ff28ede48b83c24.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=2475f0&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard) [![LeetCode user YoushaaMurhij](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYoushaaMurhij&logo=leetcode&logoColor=yellow)](https://leetcode.com/YoushaaMurhij/) [![LeetGPU Stats](leetgpu_badge.svg)](https://leetgpu.com/profile?display_name=YoushaaMurhij)
+§
 
