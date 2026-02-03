@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
   
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> 
@@ -17,9 +17,12 @@
   <a href="https://opencv.org/" target="_blank"> <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> </a>
 </p>
 
-> *"Those who do not remember the past are condemned to repeat it."* — **Dynamic programming**, but also life.
+<p align="center"><em>"Those who do not remember the past are condemned to repeat it."</em> — <strong>Dynamic programming</strong>, but also life.</p>
 
 
-![DeepML Youshaa Murhij](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.6081482d75dc29a31ff28ede48b83c24.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=2475f0&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard) [![LeetCode user YoushaaMurhij](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYoushaaMurhij&logo=leetcode&logoColor=yellow)](https://leetcode.com/YoushaaMurhij/) [![LeetGPU Stats](leetgpu_badge.svg)](https://leetgpu.com/profile?display_name=YoushaaMurhij)
-§
-
+<p align="center">
+  <a href="https://www.deep-ml.com/leaderboard"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.6081482d75dc29a31ff28ede48b83c24.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=2475f0&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard" alt="DeepML"/></a>
+  <a href="https://leetcode.com/YoushaaMurhij/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYoushaaMurhij&logo=leetcode&logoColor=yellow" alt="LeetCode"/></a>
+  <a href="https://leetgpu.com/profile?display_name=YoushaaMurhij"><img src="leetgpu_badge.svg" alt="LeetGPU"/></a>
+  <a href="https://www.researchgate.net/profile/Youshaa-Murhij"><img src="https://img.shields.io/badge/-ResearchGate-00ccbb?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/></a>
+</p>
