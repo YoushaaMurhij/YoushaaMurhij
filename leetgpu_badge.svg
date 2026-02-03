@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="28">
+<linearGradient id="b" x2="0" y2="100%">
+  <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+  <stop offset="1" stop-opacity=".1"/>
+</linearGradient>
+
+<mask id="a">
+  <rect width="340" height="28" rx="4" fill="#fff"/>
+</mask>
+
+<g mask="url(#a)">
+  <rect width="90" height="28" fill="#555"/>
+  <rect x="90" width="250" height="28" fill="#3ce8e2"/>
+  <rect width="340" height="28" fill="url(#b)"/>
+</g>
+
+<g fill="#fff"
+   text-anchor="middle"
+   font-family="Verdana,Geneva,sans-serif"
+   font-size="13"
+   font-weight="bold">
+  <text x="45" y="19">LeetGPU</text>
+  <text x="215" y="19">CUDA 32/51 solved · 45/58 subs</text>
+</g>
+</svg>
