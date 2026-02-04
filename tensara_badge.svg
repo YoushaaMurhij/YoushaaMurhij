@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="40">
+  <defs>
+    <clipPath id="logo-clip">
+      <rect x="12" y="8" width="24" height="24" rx="4"/>
+    </clipPath>
+  </defs>
+  <rect width="450" height="40" rx="8" fill="#065f46"/>
+  <rect width="150" height="40" rx="8" fill="#047857"/>
+  <image href="https://tensara.org/logo_no_bg.png" x="12" y="8" width="24" height="24" clip-path="url(#logo-clip)"/>
+  <text x="50" y="25" text-anchor="start"
+        font-family="Inter,Arial" font-size="14" fill="#d1fae5" font-weight="600">
+    Tensara
+  </text>
+  <text x="270" y="25" text-anchor="middle"
+        font-family="Inter,Arial" font-size="14" fill="#34d399" font-weight="600">
+    Rank 13
+  </text>
+  <text x="380" y="25" text-anchor="middle"
+        font-family="Inter,Arial" font-size="13" fill="#a7f3d0" font-weight="500">
+    26 solved
+  </text>
+</svg>
