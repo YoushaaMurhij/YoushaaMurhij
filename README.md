@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <a href="https://www.deep-ml.com/leaderboard"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.6081482d75dc29a31ff28ede48b83c24.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=2475f0&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard" alt="DeepML"/></a>
+  [![DeepML](deepml_badge.svg)](https://www.deep-ml.com/leaderboard)
   <a href="https://leetcode.com/YoushaaMurhij/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYoushaaMurhij&logo=leetcode&logoColor=yellow" alt="LeetCode"/></a>
   <a href="https://leetgpu.com/profile?display_name=YoushaaMurhij"><img src="leetgpu_badge.svg" alt="LeetGPU"/></a>
   <a href="https://www.researchgate.net/profile/Youshaa-Murhij"><img src="https://img.shields.io/badge/-ResearchGate-00ccbb?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/></a>
